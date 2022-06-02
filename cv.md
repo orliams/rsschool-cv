@@ -17,6 +17,6 @@ function multiply(a, b){
 }
 ```
 ## Languages
-Native: Russian and Belorusian <p></p>
+Native: Russian and Belorusian<p></p>
 English level C1<p></p>
 Spanish level B1 <p></p>
